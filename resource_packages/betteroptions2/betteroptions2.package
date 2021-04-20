@@ -1,0 +1,11 @@
+mod = [
+	"betteroptions2"
+]
+
+package = [
+	"resource_packages/betteroptions2/betteroptions2"
+]
+
+lua = [
+	"scripts/mods/betteroptions2/*"
+]
